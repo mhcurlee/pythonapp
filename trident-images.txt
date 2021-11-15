@@ -1,0 +1,9 @@
+image: k8s.gcr.io/sig-storage/csi-attacher:v3.3.0
+image: k8s.gcr.io/sig-storage/csi-node-driver-registrar:v2.3.0
+image: k8s.gcr.io/sig-storage/csi-provisioner:v2.2.2
+image: k8s.gcr.io/sig-storage/csi-resizer:v1.3.0
+image: k8s.gcr.io/sig-storage/csi-snapshotter:v3.0.3
+image: netapp/trident-autosupport:21.10
+image: netapp/trident-operator:21.10.0
+image: netapp/trident:21.10.0
+
